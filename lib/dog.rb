@@ -1,6 +1,5 @@
-class Dog(fido, snoopy, lassie)
-  def 
-  @fido = fido 
-  @snoopy = snoopy
-  @lassie = lassie
+class Dog
+  fido = Dog.new 
+  snoopy = Dog.new 
+  lassie = Dog.new
 end
